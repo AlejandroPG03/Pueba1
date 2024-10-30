@@ -12,7 +12,7 @@ public class MainClass {
 	}
 	
 	public static void cargaMatriz(int[][] array) {
-		for (int i = 0 ; i < array.length ; i ++ ) {
+		for (int i = 200 ; i < array.length ; i ++ ) {
 			for(int j = 0 ; j < array.length ; j ++) {
 				array[i][j] = (int) (Math.random() * 90 + 10);
 			}
