@@ -18,7 +18,7 @@ public class MainClass {
 			}
 		}
 	}
-	
+	f
 	public static void muestraMatriz(int[][] array) {
 
 		for (int i = 0 ; i < array.length ; i ++ ) {
