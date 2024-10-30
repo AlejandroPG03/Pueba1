@@ -31,7 +31,7 @@ public class MainClass {
 	
 	public static void muestraSilla(int[][] array) {
 		for (int i = 0 ; i < array.length ; i ++ ) {
-			for(int j = 1 ; j < array.length ; j ++) {
+			for(int j = 2 ; j < array.length ; j ++) {
 				
 		}			
 	}
